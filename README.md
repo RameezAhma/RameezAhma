@@ -1,18 +1,43 @@
-* 👋 Hi, I’m **Rameez Ahmad**
-* 🎮 I’m a **Unity Game Developer** focused on building engaging 2D & 3D games
-* 👀 I’m interested in **game systems design, AI behavior, multiplayer mechanics, and performance optimization**
-* 🌱 I’m currently learning **advanced Unity architecture, multiplayer networking (Photon/Mirror), and scalable game systems**
-* 💞️ I’m looking to collaborate on **innovative game projects, especially multiplayer and simulation-based games**
-* 📫 How to reach me: **[rameezahmadtoor@gmail.com]**
+<h1 align="center">Hi 👋, I'm Rameez Ahmad</h1>
+<h3 align="center">🎮 Unity Game Developer | 2D/3D | Multiplayer Systems</h3>
 
 ---
 
-### ⚡ About Me
+## 🚀 About Me
+- 🎮 I build games using **Unity & C#**
+- 🧠 Focused on **game systems, multiplayer & performance**
+- 🔧 Currently working on a **Ludo Game**
+- 📫 Reach me at: **rameezahmadtoor@email.com**
 
-I specialize in developing gameplay systems using Unity, including AI-driven mechanics, structured game architecture, and interactive user experiences. I enjoy turning ideas into polished, playable games with clean and scalable code.
+---
 
+## 🛠️ Tech Stack
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-<!---
-RameezAhma/RameezAhma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🎯 Current Projects
+- 🎲 **Ludo Game (Multiplayer Ready)**
+- 🧩 Node-based Board System
+- ⚡ Optimized Token Movement
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](YOUR_SITE)
+
+---
+
+⭐ *“Building games that people love to play.”*
